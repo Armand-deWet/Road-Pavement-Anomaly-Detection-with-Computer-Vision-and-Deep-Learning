@@ -68,5 +68,5 @@ Find links to the run outpouts from the various training steps: [Google Drive li
 
 ## Annotated video
 
-Find links to various annoated videos resulting from the Rasberry PI YOLOv12n model deployment: [Google Drive link - annotated videos](https://drive.google.com/drive/folders/1BTYNl8PoUMPVb_no6_JXLcIq9TwQ4lpu?usp=drive_link)
+Find links to various annoated videos resulting from the Rasberry Pi YOLOv12n model deployment: [Google Drive link - annotated videos](https://drive.google.com/drive/folders/1BTYNl8PoUMPVb_no6_JXLcIq9TwQ4lpu?usp=drive_link)
 ---
