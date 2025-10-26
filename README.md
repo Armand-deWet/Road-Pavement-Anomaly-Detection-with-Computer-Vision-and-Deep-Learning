@@ -60,3 +60,8 @@ Hardware used:
 - **Deployment:** Raspberry Pi 5 (8 GB RAM)  
 
 ---
+
+## Model Training Results
+
+Find links to the run outouts from the various training steps: [[https://crddc2022.sekilab.global/](https://drive.google.com/drive/folders/1SxqA3UDCcGlkGrrAeSqFD6LG1w6nABnd?usp=drive_link)]([https://crddc2022.sekilab.global/](https://drive.google.com/drive/folders/1SxqA3UDCcGlkGrrAeSqFD6LG1w6nABnd?usp=drive_link))
+---
