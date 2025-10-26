@@ -60,13 +60,3 @@ Hardware used:
 - **Deployment:** Raspberry Pi 5 (8 GB RAM)  
 
 ---
-
-## 📊 Key Results
-
-| Model | mAP@50 | mAP@50:95 | F1 Score | Training Time (h) |
-|--------|---------|------------|-----------|-------------------|
-| YOLOv10n | 0.57 | 0.30 | 0.57 | 3.47 |
-| YOLOv11n | 0.58 | 0.30 | 0.58 | 2.09 |
-| YOLOv12n | 0.60 | 0.31 | 0.57 | 2.99 |
-
-YOLOv12n demonstrated the best real-world inference capability, operating at **2–3 FPS** on a Raspberry Pi 5.
