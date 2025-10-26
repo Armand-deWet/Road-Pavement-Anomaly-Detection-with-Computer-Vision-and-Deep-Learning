@@ -63,5 +63,5 @@ Hardware used:
 
 ## Model Training Results
 
-Find links to the run outouts from the various training steps: [[https://crddc2022.sekilab.global/](https://drive.google.com/drive/folders/1SxqA3UDCcGlkGrrAeSqFD6LG1w6nABnd?usp=drive_link)]([https://crddc2022.sekilab.global/](https://drive.google.com/drive/folders/1SxqA3UDCcGlkGrrAeSqFD6LG1w6nABnd?usp=drive_link))
+Find links to the run outouts from the various training steps: [ttps://drive.google.com/drive/folders/1SxqA3UDCcGlkGrrAeSqFD6LG1w6nABnd?usp=drive_link](https://drive.google.com/drive/folders/1SxqA3UDCcGlkGrrAeSqFD6LG1w6nABnd?usp=drive_link)
 ---
