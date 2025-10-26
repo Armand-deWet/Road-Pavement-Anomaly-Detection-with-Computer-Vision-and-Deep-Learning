@@ -20,7 +20,7 @@ The workflow includes:
 
 1. **Dataset preparation** — cleaning and splitting the RDD2022 and Roboflow datasets.  
 2. **Initial training** — training YOLOv10, YOLOv11, and YOLOv12 models on the cleaned data.  
-3. **Transfer & semi-supervised learning** — using pseudo-label generation to enhance performance.  
+3. **Transfer & semi-supervised learning** — using pseudo-label generation to attempt to enhance performance.  
 4. **Deployment** — converting the best YOLOv12n model to NCNN format and deploying it on a Raspberry Pi 5.
 
 ---
@@ -70,17 +70,3 @@ Hardware used:
 | YOLOv12n | 0.60 | 0.31 | 0.57 | 2.99 |
 
 YOLOv12n demonstrated the best real-world inference capability, operating at **2–3 FPS** on a Raspberry Pi 5.
-
----
-
-## 🧩 Reproducibility
-
-### Environment
-- **OS:** Ubuntu 20.04.6 LTS  
-- **Python:** 3.10+  
-- **CUDA:** 12.2  
-- **Dependencies:** See `requirements.txt` (to be uploaded).
-
-Install requirements:
-```bash
-pip install -r requirements.txt
